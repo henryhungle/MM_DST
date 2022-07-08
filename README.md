@@ -159,6 +159,6 @@ If you find the paper or the source code useful to your projects, please cite th
 
 The code is released MIT License - see `LICENSE.txt` for details.
 
-This code is developed from other open source projects: including our prior work DVD, CATER, and CATER for object tracking. 
+This code is developed from other open source projects: including our prior work [DVD](https://github.com/facebookresearch/DVDialogues), [CATER](https://github.com/rohitgirdhar/CATER), and [related work for object tracking](https://github.com/ofrikleinfeld/ObjectPermanence). 
 We thank the original contributors of these works for open-sourcing their valuable source codes. 
 
