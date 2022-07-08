@@ -1,0 +1,6 @@
+{
+  "dials_dir": "data/dvd/val/",
+  "dials_synonyms": "data/dvd/synonyms.json", 
+  "dials_metadata": "data/dvd/metadata.json",
+  "video_dir": "data/cater/val/scenes/"
+}

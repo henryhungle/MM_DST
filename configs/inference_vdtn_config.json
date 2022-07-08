@@ -1,0 +1,11 @@
+{
+  "state_maxlen": 25, 
+  "batch_size": 1,
+  "num_workers": 2,
+  "num_dials": 1, 
+  "device": "cuda:0",
+  "test_video_ft_dir": "data/cater/test/od_perception",
+  "test_video_labels_dir": "data/cater/test/labels",
+  "test_dial_dir": "data/preprocessed/test",
+  "test_video_resnext_dir": "data/cater/test/resnext"
+}

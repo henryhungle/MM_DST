@@ -1,0 +1,8 @@
+{
+    "word_embedding_dim": 128,
+    "transformer_dim": 128,
+    "transformer_ff_dim": 256,
+    "num_attention_heads": 8,
+    "num_attention_layers": 3,
+    "dropout": 0.2
+}
